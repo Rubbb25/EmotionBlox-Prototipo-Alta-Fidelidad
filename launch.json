@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "emotionblox",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["EmotionBlox/server.py"],
+      "port": 8000
+    }
+  ]
+}
